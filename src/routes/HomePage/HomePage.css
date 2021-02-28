@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.todosList {
+  display: flex;
+  flex-direction: column;  
+}
+
+.todoItem {
+  border: 1px solid #707070;
+  margin-bottom: 1em;
+}
